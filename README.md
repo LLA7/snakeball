@@ -5,7 +5,7 @@
   SNAKEBALL
 </h1>
 <p align="center">
-  ⌨Tech stack: <b>HTML, CSS, JS, Vue, SVG, GSAP, Hower</b>
+  ⌨Tech stack: <b>HTML, CSS, JS, SVG, Vue, Pinia, GSAP, Howler, Matter</b>
 </p>
 
 ![screenshot](https://snakeball.jiejoe.com/meta/screenshot.jpg)

@@ -22,8 +22,8 @@ SNAKEBALL是一个休闲网页小游戏，在游戏中，玩家可以操控一�
 ## ✊️ Support me
 如果不懂这个网站怎么交互、或者想了解更多内容的小伙伴可以查看演示视频👇
 
-<a href="https://www.bilibili.com/video/BV1Ka4y1o7aS">
-<img src="https://i1.hdslb.com/bfs/archive/fb0f35d758809c9927fa1138a99f5e4f7523232a.jpg" width="40%">
+<a href="https://www.bilibili.com/video/BV1gqZ4Y1ETA/">
+<img src="https://i2.hdslb.com/bfs/archive/c6c949165f5b927c70ebd240267f177f887305ea.jpg" width="40%">
 </a>
 
 如果你觉得这个项目还不错的话，欢迎你的**Fork**或**Star**，非常感谢🙇‍
